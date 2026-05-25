@@ -47,7 +47,13 @@ Cool Description Here.
       <tr>
         <td align="center"><b>Tools</b></td>
         <td >
-          <img src="https://skillicons.dev/icons?i=git,github" />
+          <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>OS</b></td>
+        <td >
+          <img src="https://skillicons.dev/icons?i=windows,debian" />
         </td>
       </tr>
     </tbody>
