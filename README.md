@@ -16,12 +16,6 @@
 
 Cool Description Here.
 
-<div align="center">
-  <h2> Let's Connect! </h2>
-</div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/user/areebkhan-x3) 
-
 <div>
   <h2> What I Build With: </h2>
    <table>
