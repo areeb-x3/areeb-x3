@@ -12,9 +12,42 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/user/areebkhan-x3) 
 
-<div align="center">
+<div>
   <h2> What I Build With: </h2>
-   <img src="https://skillicons.dev/icons?i=java,html,css,git,bootstrap,nodejs,django,python,nodejs,react,js,github" />
+   <table>
+    <thead>
+      <tr>
+        <th align="center">Category</th>
+        <th align="center">Tech Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b>Languages</b></td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=java,python" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>Frontend</b></td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>Backend</b></td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=django,nodejs" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>Tools</b></td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=git,github" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <div align="center">
