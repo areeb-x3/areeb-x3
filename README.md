@@ -19,7 +19,6 @@
     <img alt="GitHub Streak" align="right" src="https://streak-stats.demolab.com?user=areeb-x3&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" />
   <div align="left">
     <p>
-      <br />
       Hey! I'm Areeb, building my career in <code>Software Engineering</code>. I love building practical tools that people actually use (even though half of my work is
       currently locked away in private LOL). Huge Persona fan, lover of clean-sexy UI, and currently trying to balance my coding stats with my real-life courage and
       knowledge metrics.
