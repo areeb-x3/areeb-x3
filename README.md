@@ -20,7 +20,13 @@
 
   <div align="left">
     <p>
-      Cool Description Here. Woah its not overlapping.
+      Hey! I'm Areeb, building my career in Software Engineering. I love building practical tools that people actually use (even though half of my work is
+      currently locked away in private LOL). Huge Persona fan, lover of clean-sexy UI, and currently trying to balance my coding stats with my real-life courage and
+      knowledge metrics.
+    </p>
+    <p>
+      I'm currently developing a native desktop application using Electron, It’s currently residing in a private repository while I actually build the backend but
+      it'll see the light of day soon.
     </p>
   </div>
 </div>
