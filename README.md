@@ -15,8 +15,12 @@
 <div align="center">
   <h2> About Me</h2>
 </div>
+  <img alt="Wahhh It's broken" align="right" src="https://streak-stats.demolab.com?user=areeb-x3&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" />
 
-Cool Description Here.
+  <p>
+    Cool Description Here. 
+    <br><br><br><br><br><br><br><br><br> 
+  </p>
 
 <div>
   <h2> What I Build With: </h2>
@@ -61,9 +65,6 @@ Cool Description Here.
     </tbody>
   </table>
 </div>
-
-  <img alt="Wahhh It's broken" src="https://streak-stats.demolab.com?user=areeb-x3&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" />
-
 <div align="center">
   <hr style="border: 1px solid #000; margin-top: 10px; margin-bottom: 10px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=areeb-x3&custom_title=Contribution%20Graph&hide_border=true&point=EB2222&theme=high-contrast" alt="Oh God It's not working" />
