@@ -15,12 +15,17 @@
 <div align="center">
   <h2> About Me</h2>
 </div>
-  <img alt="Wahhh It's broken" align="right" src="https://streak-stats.demolab.com?user=areeb-x3&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" />
+  <div>
+  <img alt="GitHub Streak" align="right" src="https://streak-stats.demolab.com?user=areeb-x3&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" />
 
-  <p>
-    Cool Description Here. 
-    <br><br><br><br><br><br><br><br><br> 
-  </p>
+  <div align="left">
+    <p>
+      Cool Description Here. Woah its not overlapping.
+    </p>
+  </div>
+</div>
+
+<br clear="both" />
 
 <div>
   <h2> What I Build With: </h2>
