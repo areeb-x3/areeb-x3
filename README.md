@@ -56,5 +56,7 @@ Cool Description Here.
 
 <div align="center">
   <h2> GitHub Stats: </h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=areeb-x3&hide_title=true&hide_border=true&point=EB2222&theme=high-contrast" alt="Oh God It's not working" />
+  
   <img src="https://streak-stats.demolab.com?user=areeb-x3&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" alt="GitHub Streak" />
 </div>
