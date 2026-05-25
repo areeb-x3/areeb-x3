@@ -1,4 +1,4 @@
-<img src="makoto_test.jpg" />
+<img src="banner.jpg" />
 
 # 💫 About Me:
 🔭 I’m currently working on Electron App  <br>🌱 I’m currently learning MERN stack and Java
