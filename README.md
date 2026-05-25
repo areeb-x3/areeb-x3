@@ -24,25 +24,25 @@
     <tbody>
       <tr>
         <td align="center"><b>Languages</b></td>
-        <td align="center">
+        <td>
           <img src="https://skillicons.dev/icons?i=java,python" />
         </td>
       </tr>
       <tr>
         <td align="center"><b>Frontend</b></td>
-        <td align="center">
+        <td>
           <img src="https://skillicons.dev/icons?i=react,html,css,js" />
         </td>
       </tr>
       <tr>
         <td align="center"><b>Backend</b></td>
-        <td align="center">
+        <td>
           <img src="https://skillicons.dev/icons?i=django,nodejs" />
         </td>
       </tr>
       <tr>
         <td align="center"><b>Tools</b></td>
-        <td align="center">
+        <td >
           <img src="https://skillicons.dev/icons?i=git,github" />
         </td>
       </tr>
