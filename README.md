@@ -6,11 +6,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white">
   </a>
   &nbsp;
-  <a href="contact.areeb.x3@gmail.com">
+  <a href="mailto:contact.areeb.x3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   &nbsp;
-  
+</div>
+
+<div align="center">
   <h2> About Me</h2>
 </div>
 
@@ -21,7 +23,7 @@ Cool Description Here.
    <table>
     <thead>
       <tr>
-        <th align="center">Category</th>
+        <th align="center" >Category</th>
         <th align="center">Tech Stack</th>
       </tr>
     </thead>
@@ -60,9 +62,9 @@ Cool Description Here.
   </table>
 </div>
 
+  <img alt="Wahhh It's broken" src="https://streak-stats.demolab.com?user=areeb-x3&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" />
+
 <div align="center">
-  <h2> GitHub Stats: </h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=areeb-x3&hide_title=true&hide_border=true&point=EB2222&theme=high-contrast" alt="Oh God It's not working" />
-  
-  <img src="https://streak-stats.demolab.com?user=areeb-x3&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" alt="GitHub Streak" />
+  <hr style="border: 1px solid #000; margin-top: 10px; margin-bottom: 10px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=areeb-x3&custom_title=Contribution%20Graph&hide_border=true&point=EB2222&theme=high-contrast" alt="Oh God It's not working" />
 </div>
