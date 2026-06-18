@@ -14,7 +14,7 @@
   <h2> About Me</h2>
 </div>
 <div>
-    <img alt="GitHub Streak" align="right" src="https://streak-stats.demolab.com?user=areeb-x3&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" />
+    <img alt="GitHub Streak" align="right" src="https://github-readme-streak-stats-blond-beta.vercel.app?user=areeb-x3&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" />
   <div align="left">
     <p>
       Hey! I'm Areeb, building my career in <code>Software Engineering</code>. I love building practical tools that people actually use (even though half of my work is
