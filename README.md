@@ -48,7 +48,7 @@
       <tr>
         <td align="center"><b>Languages</b></td>
         <td>
-          <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=EB2222" />
+          <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=EB2222" />
           <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=EB2222" />
         </td>
       </tr>
