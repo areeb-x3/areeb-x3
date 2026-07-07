@@ -48,7 +48,7 @@
         </a> 
       </td>
       <td> 
-        A web-based platform built with Django and React that combines automated bulk email scheduling and contact management with a collaborative community forum to improve engagement strategies and reduce spam.
+        <i>A web-based platform built with Django and React that combines automated bulk email scheduling and contact management with a collaborative community forum to improve engagement strategies and reduce spam.</i>
       </td>
     </tr>
     <tr>
@@ -59,8 +59,8 @@
         (CURRENTLY PRIVATE) 
       </td>
       <td> 
-         An Electron and React-based desktop utility for Minecraft, enabling users to import, prioritize, and merge multiple Bedrock
-  resource packs while automatically detecting and resolving file conflicts.
+         <i>An Electron and React-based desktop utility for Minecraft Bedrock Edition, enabling users to import, prioritize, and merge multiple Bedrock
+  resource packs while automatically detecting and resolving file conflicts.</i>
       </td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@
         </a> 
       </td>
       <td> 
-        An interactive Truth or Dare Discord bot built with discord.py, featuring slash commands, button-driven UIs, random turn selection, and overseer-controlled game flows with persistent in-memory states per server.
+        <i>An interactive Truth or Dare Discord bot built with discord.py, featuring slash commands, button-driven UIs, random turn selection, and overseer-controlled game flows with persistent in-memory states per server.</i>
       </td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@
           <img src="https://img.shields.io/badge/Themis-000000?style=for-the-badge&logo=github&logoColor=EB222" />
         </a>
       </td>
-      <td>  Coming Soon </td>
+      <td>  <i>Coming Soon</i> </td>
     </tr>
   </table>
 </div>
