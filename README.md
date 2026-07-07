@@ -15,7 +15,7 @@
 </div>
 <div>
   <a href="#">
-    <img alt="GitHub Streak" align="right" src="https://readme-streak-antonio.vercel.app?user=areeb-x3&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" />
+    <img alt="GitHub Streak" align="right" src="https://readme-streak-antonio.vercel.app?user=areeb-x3&hide_longest_streak=true&card_width=384&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" />
   </a>
   <div align="left">
     <p>
