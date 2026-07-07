@@ -84,7 +84,7 @@
   </table>
 </div>
 
-<!-- <details>
+<details>
   <summary>
       <h4> Other Repositories </h4>
   </summary>
@@ -96,11 +96,27 @@
       </tr>  
     </thead>
     <tr>
-      <td>Name</td>
-      <td>Description</td>
+      <td align="center">
+        <a href="https://github.com/areeb-x3/LNCT-AWS-Core-Team-Recruitment-Form">
+          <img src="https://img.shields.io/badge/AWS%20Forms-000000?style=for-the-badge&logo=github&logoColor=EB222" />
+        </a>
+      </td>
+      <td>
+         <i>Serverless recruitment form template for AWS Cloud Clubs, built with HTML, CSS, and JavaScript, designed to submit applicant data directly to Google Sheets without requiring backend server systems.</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/areeb-x3/leetcode-solutions">
+          <img src="https://img.shields.io/badge/LC%20Solutions-000000?style=for-the-badge&logo=github&logoColor=EB222" />
+        </a>
+      </td>
+      <td>
+        <i>A curated collection of LeetCode algorithm solutions, automatically synchronized using LeetHub</i>
+      </td>
     </tr>
   </table>
-</details> -->
+</details>
 
 <div align="center">
   <h2> What I Build With </h2>
