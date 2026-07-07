@@ -84,6 +84,24 @@
   </table>
 </div>
 
+<!-- <details>
+  <summary>
+      <h4> Other Repositories </h4>
+  </summary>
+  <table>
+    <thead>
+      <tr>
+        <td align="center">Name</td>
+        <td align="center">Description</td>  
+      </tr>  
+    </thead>
+    <tr>
+      <td>Name</td>
+      <td>Description</td>
+    </tr>
+  </table>
+</details> -->
+
 <div align="center">
   <h2> What I Build With </h2>
    <table>
