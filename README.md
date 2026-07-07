@@ -44,7 +44,7 @@
     <tr>
       <td align="center"> 
         <a href="https://github.com/areeb-x3/vectra-email-automator" >
-          <img src="https://img.shields.io/badge/Vectra-000000?style=for-the-badge&logo=github&logoColor=EB222" />
+          <img src="https://img.shields.io/badge/Vectra-000000?style=for-the-badge&logo=github&logoColor=EB2222" />
         </a> 
       </td>
       <td> 
@@ -54,7 +54,7 @@
     <tr>
       <td align="center"> 
         <a href="https://github.com/areeb-x3/aetherion-pack-util"> 
-          <img src="https://img.shields.io/badge/Aetherion-000000?style=for-the-badge&logo=github&logoColor=EB222" />
+          <img src="https://img.shields.io/badge/Aetherion-000000?style=for-the-badge&logo=github&logoColor=EB2222" />
         </a> 
         (CURRENTLY PRIVATE) 
       </td>
@@ -66,7 +66,7 @@
     <tr>
       <td align="center"> 
         <a href="https://github.com/areeb-x3/truth-or-dare-discord-bot"> 
-          <img src="https://img.shields.io/badge/Tod%20Discord%20Bot-000000?style=for-the-badge&logo=github&logoColor=EB222" />
+          <img src="https://img.shields.io/badge/Tod%20Discord%20Bot-000000?style=for-the-badge&logo=github&logoColor=EB2222" />
         </a> 
       </td>
       <td> 
@@ -76,7 +76,7 @@
     <tr>
       <td align="center"> 
         <a href="#">
-          <img src="https://img.shields.io/badge/Themis-000000?style=for-the-badge&logo=github&logoColor=EB222" />
+          <img src="https://img.shields.io/badge/Themis-000000?style=for-the-badge&logo=github&logoColor=EB2222" />
         </a>
       </td>
       <td>  <i>Coming Soon</i> </td>
@@ -98,7 +98,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/areeb-x3/LNCT-AWS-Core-Team-Recruitment-Form">
-          <img src="https://img.shields.io/badge/AWS%20Forms-000000?style=for-the-badge&logo=github&logoColor=EB222" />
+          <img src="https://img.shields.io/badge/AWS%20Forms-000000?style=for-the-badge&logo=github&logoColor=EB2222" />
         </a>
       </td>
       <td>
@@ -108,7 +108,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/areeb-x3/leetcode-solutions">
-          <img src="https://img.shields.io/badge/LC%20Solutions-000000?style=for-the-badge&logo=github&logoColor=EB222" />
+          <img src="https://img.shields.io/badge/LC%20Solutions-000000?style=for-the-badge&logo=github&logoColor=EB2222" />
         </a>
       </td>
       <td>
