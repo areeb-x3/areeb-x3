@@ -40,16 +40,21 @@
       </tr>
     </thead>
     <tr>
-      <td> 
-        <a href="https://github.com/areeb-x3/vectra-email-automator" > Vectra </a> 
+      <td align="center"> 
+        <a href="https://github.com/areeb-x3/vectra-email-automator" >
+          <img src="https://img.shields.io/badge/Vectra-000000?style=for-the-badge&logo=github&logoColor=EB222" />
+        </a> 
       </td>
       <td> 
         A web-based platform built with Django and React that combines automated bulk email scheduling and contact management with a collaborative community forum to improve engagement strategies and reduce spam.
       </td>
     </tr>
     <tr>
-      <td> 
-        <a href="https://github.com/areeb-x3/aetherion-pack-util"> Aetherion </a> (CURRENTLY PRIVATE) 
+      <td align="center"> 
+        <a href="https://github.com/areeb-x3/aetherion-pack-util"> 
+          <img src="https://img.shields.io/badge/Aetherion-000000?style=for-the-badge&logo=github&logoColor=EB222" />
+        </a> 
+        (CURRENTLY PRIVATE) 
       </td>
       <td> 
          An Electron and React-based desktop utility for Minecraft, enabling users to import, prioritize, and merge multiple Bedrock
@@ -57,15 +62,19 @@
       </td>
     </tr>
     <tr>
-      <td> 
-        <a href="https://github.com/areeb-x3/truth-or-dare-discord-bot"> ToD Discord Bot </a> 
+      <td align="center"> 
+        <a href="https://github.com/areeb-x3/truth-or-dare-discord-bot"> 
+          <img src="https://img.shields.io/badge/Tod%20Discord%20Bot-000000?style=for-the-badge&logo=github&logoColor=EB222" />
+        </a> 
       </td>
       <td> 
         An interactive Truth or Dare Discord bot built with discord.py, featuring slash commands, button-driven UIs, random turn selection, and overseer-controlled game flows with persistent in-memory states per server.
       </td>
     </tr>
     <tr>
-      <td> Themis </td>
+      <td align="center"> 
+        <img src="https://img.shields.io/badge/Themis-000000?style=for-the-badge&logo=github&logoColor=EB222" />
+      </td>
       <td>  Coming Soon </td>
     </tr>
   </table>
