@@ -33,7 +33,7 @@
 <br clear="both" />
 
 <div align="center" >
-  <h2> Projects: </h2>
+  <h2> Projects </h2>
   <table>
     <thead>
       <tr>
@@ -85,7 +85,7 @@
 </div>
 
 <div align="center">
-  <h2> What I Build With: </h2>
+  <h2> What I Build With </h2>
    <table>
     <thead>
       <tr>
