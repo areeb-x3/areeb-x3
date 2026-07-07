@@ -30,10 +30,46 @@
 
 <br clear="both" />
 
-<!-- <div align="left">
+<div align="center" >
   <h2> Projects: </h2>
-  
-</div> -->
+  <table>
+    <thead>
+      <tr>
+        <th align="center"> Name </th>
+        <th align="center"> Description </th>
+      </tr>
+    </thead>
+    <tr>
+      <td> 
+        <a href="https://github.com/areeb-x3/vectra-email-automator" > Vectra </a> 
+      </td>
+      <td> 
+        A web-based platform built with Django and React that combines automated bulk email scheduling and contact management with a collaborative community forum to improve engagement strategies and reduce spam.
+      </td>
+    </tr>
+    <tr>
+      <td> 
+        <a href="https://github.com/areeb-x3/aetherion-pack-util"> Aetherion </a> (CURRENTLY PRIVATE) 
+      </td>
+      <td> 
+         An Electron and React-based desktop utility for Minecraft, enabling users to import, prioritize, and merge multiple Bedrock
+  resource packs while automatically detecting and resolving file conflicts.
+      </td>
+    </tr>
+    <tr>
+      <td> 
+        <a href="https://github.com/areeb-x3/truth-or-dare-discord-bot"> ToD Discord Bot </a> 
+      </td>
+      <td> 
+        An interactive Truth or Dare Discord bot built with discord.py, featuring slash commands, button-driven UIs, random turn selection, and overseer-controlled game flows with persistent in-memory states per server.
+      </td>
+    </tr>
+    <tr>
+      <td> Themis </td>
+      <td>  Coming Soon </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <h2> What I Build With: </h2>
