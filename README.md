@@ -39,9 +39,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=EB2222" /></a>
     <!--Web - Frontend-->
     <a href="#"><img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=EB2222" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=EB2222" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=EB2222" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=EB2222" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=EB2222" /></a>
     <!--Web - Backened-->
     <a href="#"><img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=EB2222" /></a>
     <a href="#"><img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=nodedotjs&logoColor=EB2222" /></a>
