@@ -14,9 +14,6 @@
   <h2> About Me</h2>
 </div>
 <div>
-  <a href="#">
-    <img alt="GitHub Streak" align="right" src="https://readme-streak-antonio.vercel.app?user=areeb-x3&hide_longest_streak=true&card_width=384&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" />
-  </a>
   <div align="left">
     <p>
       Hey! I'm Areeb, building my career in <code>Software Engineering</code>. I love building practical tools that people actually use (even though half of my work is
@@ -144,3 +141,21 @@
   <hr style="border: 1px solid #000; margin-top: 10px; margin-bottom: 10px;">
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=areeb-x3&custom_title=Contribution%20Graph&hide_border=true&point=EB2222&theme=high-contrast" alt="Oh God It's not working" /></a>
 </div>
+  <details>
+  <summary>
+    <h4>Other Stats</h4>
+  </summary>
+  <div>
+    <a href="#">
+      <img alt="Leetcode Stats"
+        src="https://leetcard.jacoblin.cool/areeb-x3?theme=dark&font=Roboto%20Flex&colors=%23000%2C%23202020%2C%23f0f0f0%2C%23dcdcdc%2C%23fab387%2C%235cb85c%2C%23f0ad4e%2C%23d9534f"
+      />
+    </a>
+    <br>
+    <a href="#">
+      <img alt="GitHub Streak"
+      src="https://readme-streak-antonio.vercel.app?user=areeb-x3&theme=dark&border_radius=0&hide_border=true&card_width=500&card_height=200&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" 
+    />
+    </a>
+  </div>
+</details>
