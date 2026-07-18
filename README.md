@@ -146,16 +146,17 @@
     <h4>Other Stats</h4>
   </summary>
   <div>
-    <a href="#">
-      <img alt="Leetcode Stats"
-        src="https://leetcard.jacoblin.cool/areeb-x3?theme=dark&font=Roboto%20Flex&colors=%23000%2C%23202020%2C%23f0f0f0%2C%23dcdcdc%2C%23fab387%2C%235cb85c%2C%23f0ad4e%2C%23d9534f"
-      />
-    </a>
-    <br>
+    <h5> Github Stats </h5> 
     <a href="#">
       <img alt="GitHub Streak"
       src="https://readme-streak-antonio.vercel.app?user=areeb-x3&theme=dark&border_radius=0&hide_border=true&card_width=500&card_height=200&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" 
     />
+    </a>
+    <h5> Leetcode Stats </h5>
+    <a href="#">
+      <img alt="Leetcode Stats"
+        src="https://leetcard.jacoblin.cool/areeb-x3?theme=dark&font=Roboto%20Flex&colors=%23000%2C%23202020%2C%23f0f0f0%2C%23dcdcdc%2C%23fab387%2C%235cb85c%2C%23f0ad4e%2C%23d9534f"
+      />
     </a>
   </div>
 </details>
