@@ -20,7 +20,7 @@
       <li>I am fluent in Python & Java</li>
       <li>I build Building Practical tools that people actually use.</li>
       <li>I'm currently developing a native desktop application using Electron</li>
-      <li>My other projects are <a href="#Projects">listed here</a>.</li>
+      <li>My other projects are <a href="#-projects-">listed here</a>.</li>
     </ul>
   </p>
     <!-- <p>
