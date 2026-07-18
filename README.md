@@ -14,8 +14,16 @@
   <h2> About Me</h2>
 </div>
 <div>
-  <div align="left">
-    <p>
+  <p>
+    Hey! I'm Areeb, building my career in <code>Software Engineering</code>.
+    <ul>
+      <li>I am fluent in Python & Java</li>
+      <li>I build Building Practical tools that people actually use.</li>
+      <li>I'm currently developing a native desktop application using Electron</li>
+      <li>My other projects are <a href="#Projects">listed here</a>.</li>
+    </ul>
+  </p>
+    <!-- <p>
       Hey! I'm Areeb, building my career in <code>Software Engineering</code>. I love building practical tools that people actually use (even though half of my work is
       currently locked away in private LOL). Huge Persona fan, lover of clean-sexy UI, and currently trying to balance my coding stats with my real-life courage and
       knowledge metrics.
@@ -23,8 +31,7 @@
     <p>
       I'm currently developing a native desktop application using Electron, It’s currently residing in a private repository while I actually build the backend but
       it'll get out of <i><b>The Dark Hour</b></i> soon.
-    </p>
-  </div>
+    </p> -->
 </div>
 
 <br clear="both" />
