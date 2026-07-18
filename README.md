@@ -17,10 +17,10 @@
   <p>
     Hey! I'm Areeb, building my career in <code>Software Engineering</code>.
     <ul>
-      <li>I am fluent in Python & Java</li>
-      <li>I build Building Practical tools that people actually use.</li>
-      <li>I'm currently developing a native desktop application using Electron</li>
-      <li>My other projects are <a href="#-projects-">listed here</a>.</li>
+      <li>Proficient in Python and Java.</li>
+      <li>Focused on building practical, user-centric tools.</li>
+      <li>Currently developing a native desktop application using Electron.</li>
+      <li>Check out my <a href="#-projects-">other projects!</a></li>
     </ul>
   </p>
     <!-- <p>
