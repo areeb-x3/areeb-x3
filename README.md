@@ -147,7 +147,7 @@
     <h5> Github Stats </h5> 
     <a href="#">
       <img alt="GitHub Streak"
-      src="https://readme-streak-antonio.vercel.app?user=areeb-x3&theme=dark&border_radius=0&hide_border=true&card_width=500&card_height=200&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB2222&currStreakLabel=EB2222" 
+      src="https://readme-streak-antonio.vercel.app?user=areeb-x3&theme=dark&border_radius=0&hide_border=true&card_width=500&card_height=200&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FBAB2B&currStreakLabel=FBAB2B" 
     />
     </a>
     <h5> Leetcode Stats </h5>
