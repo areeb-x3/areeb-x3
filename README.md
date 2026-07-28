@@ -135,15 +135,16 @@
   </table>
 </details>
 
-<div align="center">
-  <hr style="border: 1px solid #000; margin-top: 10px; margin-bottom: 10px;">
-  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=areeb-x3&custom_title=Contribution%20Graph&hide_border=true&point=FBAB2B&theme=high-contrast" alt="Oh God It's not working" /></a>
-</div>
-  <details>
+<hr style="border: 1px solid #000; margin-top: 10px; margin-bottom: 10px;">
+
+<details>
   <summary>
-    <h4>Other Stats</h4>
+    <h2>Statistics</h2>
   </summary>
   <div>
+    <div align="center">
+      <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=areeb-x3&custom_title=Contribution%20Graph&hide_border=true&point=FBAB2B&theme=high-contrast" alt="Oh God It's not working" /></a>
+    </div>
     <h5> Github Stats </h5> 
     <a href="#">
       <img alt="GitHub Streak"
