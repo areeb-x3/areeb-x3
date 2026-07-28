@@ -1,4 +1,4 @@
-<a href="#"> <img src="banner.jpg"/> </a>
+<a href="#"> <img src="banner_new_2x.jpg"/> </a>
 
 <div align="center">
   <!-- LinkedIn Icon from @Synaptara's Readme-->
