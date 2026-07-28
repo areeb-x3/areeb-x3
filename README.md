@@ -30,7 +30,7 @@
 <div align="center">
   <h2> Languages & Tools </h2>
     <!--Languages-->
-    <a href="#"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FBAB2B" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGQkFCMkIiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICA8cGF0aCBmaWxsPSIjRkJBQjJCIiBkPSJNMTAgMnYyIi8+CiAgPHBhdGggZmlsbD0iI0ZCQUIyQiIgZD0iTTE0IDJ2MiIvPgogIDxwYXRoIGZpbGw9IiNGQkFCMkIiIGQ9Ik02IDJ2MiIvPgogIDxwYXRoIGZpbGw9Im5vbmUiIGQ9Ik0xNiA4YTEgMSAwIDAgMSAxIDF2OGE0IDQgMCAwIDEtNCA0SDdhNCA0IDAgMCAxLTQtNFY5YTEgMSAwIDAgMSAxLTFoMTRhNCA0IDAgMSAxIDAgOGgtMSIvPgo8L3N2Zz4=&logoColor=FBAB2B" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FBAB2B" /></a>
     <!--Web - Frontend-->
     <a href="#"><img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=FBAB2B" /></a>
