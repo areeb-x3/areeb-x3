@@ -1,2 +1,5 @@
 # Hide Python Scripts
 *.py
+
+# Hide Markdown files
+old_links.md
