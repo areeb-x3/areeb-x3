@@ -4,6 +4,8 @@
   <!-- LinkedIn Icon from @Synaptara's Readme-->
   <a href="https://www.linkedin.com/in/areebkhan-x3/"><img src="./rounded/shields/linkedin.svg" /></a>
   &nbsp;
+  <a href="https://codolio.com/profile/areeb-x3"><img src="./rounded/shields/codolio.svg" /></a>
+  &nbsp;
   <a href="https://leetcode.com/u/areeb-x3/"><img src="./rounded/shields/leetcode.svg" /></a>
   &nbsp;
   <a href="mailto:contact.areeb.x3@gmail.com"><img src="./rounded/shields/gmail.svg" /></a>
