@@ -10,6 +10,8 @@
   &nbsp;
   <a href="mailto:contact.areeb.x3@gmail.com"><img src="./rounded/shields/gmail.svg" /></a>
   &nbsp;
+  <a href="https://discord.com/users/1491772611120599091"><img src="./rounded/shields/discord.svg" /></a>
+  &nbsp;
 </div>
 
 <div align="center">
